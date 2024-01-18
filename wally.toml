@@ -1,6 +1,6 @@
 [package]
-name = "grilme99/profileservice"
-version = "1.0.0"
+name = "team-snowdust/profileservice"
+version = "1.1.0-snowdust.release.1"
 registry = "https://github.com/UpliftGames/wally-index"
 realm = "server"
 
